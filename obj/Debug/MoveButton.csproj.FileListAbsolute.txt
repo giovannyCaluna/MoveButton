@@ -1,0 +1,11 @@
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\MoveButton\bin\Debug\MoveButton.exe.config
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\MoveButton\bin\Debug\MoveButton.exe
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\MoveButton\bin\Debug\MoveButton.pdb
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\MoveButton\obj\Debug\MoveButton.csproj.AssemblyReference.cache
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\MoveButton\obj\Debug\MoveButton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\MoveButton\obj\Debug\MoveButton.Form1.resources
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\MoveButton\obj\Debug\MoveButton.Properties.Resources.resources
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\MoveButton\obj\Debug\MoveButton.csproj.GenerateResource.cache
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\MoveButton\obj\Debug\MoveButton.csproj.CoreCompileInputs.cache
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\MoveButton\obj\Debug\MoveButton.exe
+C:\Users\Giovanny\Documents\USzeged\1st semester\DS\Projects\MoveButton\obj\Debug\MoveButton.pdb
